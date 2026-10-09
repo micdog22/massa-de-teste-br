@@ -1,4 +1,4 @@
-# Massa de Teste BR — gere dados brasileiros fictícios para testes e desenvolvimento (Python)
+# Massa de Teste BR: gere dados brasileiros fictícios para testes e desenvolvimento (Python)
 
 Precisa popular um banco de homologação, testar um formulário de cadastro ou montar um exemplo para a documentação sem usar dados de gente de verdade? O **Massa de Teste BR** gera pessoas e empresas brasileiras fictícias, mas coerentes: CPF e CNPJ com dígitos verificadores válidos, celular com o DDD da cidade, CEP dentro da faixa da UF e e-mails em domínios reservados para exemplos.
 
@@ -142,4 +142,4 @@ Issues e pull requests são bem-vindos.
 
 ## Licença
 
-MIT — veja [LICENSE](LICENSE).
+MIT. Veja [LICENSE](LICENSE).
